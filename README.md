@@ -4,15 +4,12 @@
 ## 📊 Principais Gráficos e Insights
 
 ### 1. Faturamento por Loja
-![Faturamento](https://i.imgur.com/8Xr2l9k.png)  
 **Insight**: A Loja 1 lidera em faturamento (R$ 1,23 mi), enquanto a Loja 3 tem o menor desempenho (R$ 650 mil).
 
 ### 2. Avaliação Média dos Clientes
-![Avaliação](https://i.imgur.com/5XJjW7l.png)  
 **Insight**: A Loja 4 possui a melhor avaliação (4.8/5), indicando alta satisfação dos clientes.
 
 ### 3. Produtos Mais Vendidos
-![Produtos](https://i.imgur.com/abc123.png)  
 **Insight**: Lava-louças e Cama box são os produtos mais populares, representando 40% das vendas.
 
 ---
@@ -53,5 +50,3 @@
 
 ---
 
-## 📝 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
